@@ -1,0 +1,10 @@
+[fields]
+names = ["id"]
+
+[input]
+name = "Stream"
+
+[output]
+name = "Echo"
+procs = 1
+fields = ["id"]
